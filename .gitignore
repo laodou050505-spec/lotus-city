@@ -33,3 +33,6 @@ Backups/
 CoverBackups/
 Assets/_Recovery/
 Assets/_Recovery.meta
+
+# 本地临时文件与过程截图，不入库
+*.apk
